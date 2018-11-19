@@ -1,0 +1,27 @@
+.mat-column-name{
+    border-right: 1px solid grey;
+    align-self: stretch;
+    text-align: center;
+}
+.mat-cell{
+    
+    margin-left: 5px;
+}
+.mat-table{
+    border: 1px solid grey;
+    margin: 50px;
+}
+.mat-header-cell{
+    background-color: aquamarine;
+    color: black;
+    font-size: 20px;
+    font-weight: 200;
+    padding-left: 24px;
+}
+.mat-header-cell:last-of-type{
+    padding-right: 0px;
+}
+.table-desc{
+    vertical-align: middle;
+    display: grid;
+}
